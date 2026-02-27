@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@algolia/client-search": "^5.49.0",
+    "@algolia/client-search": "^5.49.1",
     "@eslint/js": "^10.0.1",
     "@fontsource-variable/roboto": "^5.2.10",
     "@iconify/vue": "^5.0.0",
