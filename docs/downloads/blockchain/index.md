@@ -10,7 +10,7 @@ No binaries uet.
 
 ### Source code
 
-<a href="https://github.com/LBRYFoundation/lbcd">View at GitHub</a>
+[View at GitHub](https://github.com/LBRYFoundation/lbcd)
 
 ## ~~lbrycrd~~
 
@@ -24,4 +24,4 @@ No binaries yet.
 
 ### Source code
 
-<a href="https://github.com/LBRYFoundation/lbrycrd">View at GitHub</a>
+[View at GitHub](https://github.com/LBRYFoundation/lbrycrd)

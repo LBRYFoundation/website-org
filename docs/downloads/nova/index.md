@@ -10,7 +10,7 @@ No binaries yet.
 
 ### Source code
 
-<a href="https://github.com/LBRYFoundation/lbry-nova-desktop">View at GitHub</a>
+[View at GitHub](https://github.com/LBRYFoundation/lbry-nova-desktop)
 
 ## lbry-nova-web
 
@@ -20,7 +20,7 @@ No binaries yet.
 
 ### Source code
 
-<a href="https://github.com/LBRYFoundation/lbry-nova-web">View at GitHub</a>
+[View at GitHub](https://github.com/LBRYFoundation/lbry-nova-web)
 
 ## ~~lbry-desktop~~
 
@@ -34,4 +34,4 @@ No binaries yet.
 
 ### Source code
 
-<a href="https://github.com/LBRYFoundation/lbry-desktop">View at GitHub</a>
+[View at GitHub](https://github.com/LBRYFoundation/lbry-desktop)

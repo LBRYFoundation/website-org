@@ -10,4 +10,4 @@ No binaries yet.
 
 ### Source code
 
-<a href="https://github.com/LBRYFoundation/lbry-cli">View at GitHub</a>
+[View at GitHub](https://github.com/LBRYFoundation/lbry-cli)
