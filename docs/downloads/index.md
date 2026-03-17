@@ -6,7 +6,7 @@ title: Downloads
 
 The LBRY network contains multiple components. Each of them can be downloaded here:
 
-- [LBRY Desktop](/downloads/desktop/)
+- [LBRY Nova](/downloads/nova/)
 - [LBRY Daemon](/downloads/daemon/)
 - [LBRY CLI](/downloads/cli/)
 - [LBRY Hub](/downloads/hub/)

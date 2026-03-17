@@ -12,10 +12,10 @@ No binaries uet.
 
 <a href="https://github.com/LBRYFoundation/lbcd">View at GitHub</a>
 
-## lbrycrd
+## ~~lbrycrd~~
 
 ::: warning
-This software package is deprecated and replaced by LBCD.
+This software package is deprecated and replaced by "LBCD"; see above.
 :::
 
 ### Binary

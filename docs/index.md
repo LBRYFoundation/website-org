@@ -17,10 +17,10 @@ hero:
       link: https://chat.lbry.org/
       target: _blank
 features:
-  - title: LBRY Desktop
+  - title: LBRY Nova
     icon: 🖥️
-    details: View LBRY content on your own computer, without the need of any central video platform.
-    link: /downloads/desktop/
+    details: View LBRY content on your own computer, phone or TV, without the need of any central video platform.
+    link: /downloads/nova/
     linkText: Download
   - title: LBRY Daemon
     icon: 🧠
