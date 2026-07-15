@@ -225,6 +225,13 @@ export default defineConfig({
           link: "https://lbry.fund",
         },
       },
+      {
+        component: "StatusButton",
+        props: {
+          text: "LBRY Status",
+          link: "https://status.lbry.org",
+        },
+      },
     ],
     search: {
       provider: "local",
