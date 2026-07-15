@@ -5,6 +5,7 @@ import DefaultTheme from "vitepress/theme";
 import Color from "./components/Color.vue";
 import FundButton from "./components/FundButton.vue";
 import Person from "./components/Person.vue";
+import StatusButton from "./components/StatusButton.vue";
 import TechButton from "./components/TechButton.vue";
 import Layout from "./Layout.vue";
 
@@ -28,6 +29,7 @@ export default {
     app.component("FundButton", FundButton);
     app.component("IconifyIcon", Icon);
     app.component("Person", Person);
+    app.component("StatusButton", StatusButton);
     app.component("TechButton", TechButton);
 
     router.onAfterRouteChange = async (to: string): Promise<void> => {
